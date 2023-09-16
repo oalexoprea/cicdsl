@@ -1,3 +1,3 @@
 def call(message){
-    sh "${message}"
+    echo "${message}"
 }
