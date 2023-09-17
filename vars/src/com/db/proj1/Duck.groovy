@@ -1,3 +1,5 @@
+package com.db.proj1
+
 /**
 * Hero is the main entity we'll be using to . . .
 *
@@ -5,8 +7,10 @@
 * @author Captain America
 *
 */
-interface IFly {
+class Duck implements IFly {
 
-    void fly()
+    void fly() {
+        echo('Fly')
+    }
 
 }
