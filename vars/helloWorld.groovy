@@ -1,5 +1,5 @@
-import com.db.proj1.Duck
-import com.db.IFly
+import com.db.proj1.*
+import com.db.*
 
 def call(message) {
     IFly flyObj = new Duck()
