@@ -1,3 +1,3 @@
-class CONSTAMTS {
+class Constants {
     static NAME = "Hello"
 }
