@@ -1,1 +1,3 @@
-static NAME = "Hello"
+class CONSTAMTS {
+    static NAME = "Hello"
+}
